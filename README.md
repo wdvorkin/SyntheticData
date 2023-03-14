@@ -39,7 +39,7 @@ To run the WPO algorithm, ```cd``` to ```WPO``` and type the following command i
 
 which asks to compute the results for adjacency parameter 15.0 and privacy loss 1.0. 
 
-Similarly, ```cd``` to ```WPO``` and type:
+Similarly, ```cd``` to ```TCO``` and type:
 
 ```julia tco_main.jl -a 15.0 -e 1.0```
 
