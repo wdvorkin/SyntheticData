@@ -15,7 +15,7 @@ by Vladimir Dvorkin and Audun Botterud (Massachusetts Institute of Technology, L
 
 <table align="center">
     <tr>
-        <td align="center"><img src="https://user-images.githubusercontent.com/31773955/184557633-4285460b-2437-4159-a38c-4891b268e62a.gif">
+        <td align="center"><img src="https://user-images.githubusercontent.com/31773955/225117192-09c424fe-b071-4aff-ab1b-dda804cf9f58.gif">
         Wind power obfuscation (WPO) algorithm
         </td>
         <td align="center"><img src="https://user-images.githubusercontent.com/31773955/184557705-11c922f0-59b8-4ad9-bb97-80e31e34f8ab.gif">
