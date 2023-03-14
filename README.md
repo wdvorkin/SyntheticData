@@ -15,10 +15,10 @@ by Vladimir Dvorkin and Audun Botterud (Massachusetts Institute of Technology, L
 
 <table align="center">
     <tr>
-        <td align="center"><img src="https://user-images.githubusercontent.com/31773955/225117192-09c424fe-b071-4aff-ab1b-dda804cf9f58.gif">
+        <td align="center"><img src="https://user-images.githubusercontent.com/31773955/225122631-598b6fad-a4f0-4672-9bcf-485e5f87943d.gif">
         Wind power obfuscation (WPO) algorithm
         </td>
-        <td align="center"><img src="https://user-images.githubusercontent.com/31773955/184557705-11c922f0-59b8-4ad9-bb97-80e31e34f8ab.gif">
+        <td align="center"><img src="https://user-images.githubusercontent.com/31773955/225117192-09c424fe-b071-4aff-ab1b-dda804cf9f58.gif">
         Transmission capacity obfuscation (TCO) algorithm
         </td>
     </tr>
