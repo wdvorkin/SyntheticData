@@ -1,2 +1,2 @@
-# Repository for Synthetic Power System Datasets
+# Privacy-Preserving Synthetic Power System Dataset Generation
 
