@@ -43,7 +43,9 @@ Similarly, ```cd``` to ```TCO``` and type:
 
 ```julia tco_main.jl -a 15.0 -e 1.0```
 
-to run the TCO algorithm.
+to run the TCO algorithm. For more information on the settings, type
+
+```julia tco_main.jl --help```
 
 
 
