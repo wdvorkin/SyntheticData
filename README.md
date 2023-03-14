@@ -1,2 +1,2 @@
-# Repository for Synthetic Dataset Generation for Power System Applications
+# Repository for Synthetic Dataset for Power System Applications
 
