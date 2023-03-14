@@ -33,6 +33,18 @@ All models are implemented in Julia Language v.1.8 using [JuMP](https://github.c
 
 The codes to implement the two algorithms are placed in ```WPO``` and ```TCO``` folders, respectively. Make sure to active project environment using ```Project.toml``` and ```Manifest.toml``` located in each folder. 
 
+To run the WPO algorithm, ```cd``` to ```WPO``` and type the following command in the terminal:
+
+```julia wpo_main.jl -a 15.0 -e 1.0```
+
+which asks to compute the results for adjacency parameter 15.0 and privacy loss 1.0. 
+
+Similarly, ```cd``` to ```WPO``` and type:
+
+```julia tco_main.jl -a 15.0 -e 1.0```
+
+to run the TCO algorithm.
+
 
 
 
