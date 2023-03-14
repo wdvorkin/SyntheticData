@@ -1,2 +1,2 @@
-# Privacy-Preserving Synthetic Power System Dataset Generation
+# Private Synthetic Power System Dataset Generation
 
