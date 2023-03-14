@@ -29,7 +29,9 @@ by Vladimir Dvorkin and Audun Botterud (Massachusetts Institute of Technology, L
 
 ## Installation and usage
 
-All models are implemented in Julia Language v.1.8 using [JuMP](https://github.com/jump-dev/JuMP.jl) modeling language for mathematical optimization and commercial [Mosek](https://github.com/MOSEK/Mosek.jl) and [Gurobi](https://github.com/jump-dev/Gurobi.jl) optimization solvers, which need to be licensed (free for academic use). Make sure to active project environment using ```Project.toml``` and ```Manifest.toml``` in the root folder. 
+All models are implemented in Julia Language v.1.8 using [JuMP](https://github.com/jump-dev/JuMP.jl) modeling language for mathematical optimization and commercial [Mosek](https://github.com/MOSEK/Mosek.jl) and [Gurobi](https://github.com/jump-dev/Gurobi.jl) optimization solvers, which need to be licensed (free for academic use). 
+
+The codes to implement the two algorithms are placed in ```WPO``` and ```TCO``` folders, respectively. Make sure to active project environment using ```Project.toml``` and ```Manifest.toml``` located in each folder. 
 
 
 
