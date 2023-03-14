@@ -47,6 +47,6 @@ to run the TCO algorithm. For more information on the settings, type
 
 ```julia tco_main.jl --help```
 
+---
 
-
-
+## Citation
