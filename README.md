@@ -2,7 +2,7 @@
 
 This repository stores data and code to replicate the results from the following preprint: 
 
-[*Differentially Private Algorithms for Synthetic Power System Datasets*]()
+[*Differentially Private Algorithms for Synthetic Power System Datasets*](https://arxiv.org/pdf/2303.11079.pdf)
 
 by Vladimir Dvorkin and Audun Botterud (Massachusetts Institute of Technology, LIDS and Energy Initiative)
 
