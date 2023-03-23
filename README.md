@@ -50,3 +50,11 @@ to run the TCO algorithm. For more information on the settings, type
 ---
 
 ## Citation
+```
+@article{dvorkin2023differentially,
+  title={Differentially Private Algorithms for Synthetic Power System Datasets},
+  author={Dvorkin, Vladimir and Botterud, Audun},
+  journal={arXiv preprint arXiv:2303.11079},
+  year={2023}
+}
+```
