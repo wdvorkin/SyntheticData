@@ -1,4 +1,4 @@
-# SynthericData: Private Synthetic Data for Power Systems 
+# SyntheticData: Private Synthetic Data for Power Systems 
 
 This repository stores data and code to replicate the results from the following preprint: 
 
