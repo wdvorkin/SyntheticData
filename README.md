@@ -21,6 +21,10 @@ by Vladimir Dvorkin and Audun Botterud (Massachusetts Institute of Technology, L
         <td align="center" width="500"><img src="https://user-images.githubusercontent.com/31773955/225128660-cf9f4b65-0e61-4afc-829f-59925ceede6e.gif">
         Transmission capacity obfuscation (TCO) algorithm
         </td>
+        
+        <td align="center" width="500"><img src="https://user-images.githubusercontent.com/31773955/225128660-cf9f4b65-0e61-4afc-829f-59925ceede6e.gif">
+        Electric load obfuscation algorithm
+        </td>
     </tr>
 </table>
 
