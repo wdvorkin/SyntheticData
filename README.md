@@ -1,10 +1,12 @@
 # SyntheticData: Private Synthetic Data for Power Systems 
 
-This repository stores data and code to replicate the results from the following preprint: 
+This repository stores data and code to replicate the results from the following paper: 
 
 [*Differentially Private Algorithms for Synthetic Power System Datasets*](https://arxiv.org/pdf/2303.11079.pdf)
 
 by Vladimir Dvorkin and Audun Botterud (Massachusetts Institute of Technology, LIDS and Energy Initiative)
+
+[published](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10146422) in the IEEE Control Systems Letters journal.
 
 ---
 
