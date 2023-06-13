@@ -2,7 +2,7 @@
 
 This repository stores data and code to replicate the results from the following paper: 
 
-[*Differentially Private Algorithms for Synthetic Power System Datasets*](https://arxiv.org/pdf/2303.11079.pdf)
+[*Differentially Private Algorithms for Synthetic Power System Datasets*](https://wdvorkin.github.io/media/L-CCS-2023-SynData.pdf)
 
 by Vladimir Dvorkin and Audun Botterud (Massachusetts Institute of Technology, LIDS and Energy Initiative)
 
